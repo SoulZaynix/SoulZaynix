@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Zaynix🧑🏻‍💻 from Brasil🇧🇷<br><br>- 📌 I’m working as as an intermediate programmer for myself<br>- 📚 I'm currently learning Java<br>- ☕ In my free time I I play something or do tests and solve bugs and improvements</p>
+<p align="left">I'm Zaynix🧑🏻‍💻 from Brasil🇧🇷<br><br>- 📌 I’m working as as an intermediate programmer for myself<br>- 📚 I'm currently learning Java<br>- ☕ In my free time I play something or do tests and solve bugs and improvements</p>
 
 ###
 
